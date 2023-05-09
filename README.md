@@ -12,7 +12,7 @@ This is a simple Todo application built using Node.js, Express.js, Sequelize and
 ### Installation
 
 1. Clone this repository:
-git clone https://github.com-----------
+git clone https://github.com/ui-vivek/MyLeading-Campus
 
 2. Navigate to the project directory:
 cd todo-app
